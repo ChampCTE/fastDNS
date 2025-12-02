@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F53CD9-ADA8-4D07-AC42-08D721E0116A}|P3_CTE\\P3_CTE.vcxproj|C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2F53CD9-ADA8-4D07-AC42-08D721E0116A}|P3_CTE\\P3_CTE.vcxproj|solutionrelative:P3_CTE\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F53CD9-ADA8-4D07-AC42-08D721E0116A}|P3_CTE\\P3_CTE.vcxproj|C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\DNS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2F53CD9-ADA8-4D07-AC42-08D721E0116A}|P3_CTE\\P3_CTE.vcxproj|solutionrelative:P3_CTE\\DNS.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F53CD9-ADA8-4D07-AC42-08D721E0116A}|P3_CTE\\P3_CTE.vcxproj|C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\dns_librerias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2F53CD9-ADA8-4D07-AC42-08D721E0116A}|P3_CTE\\P3_CTE.vcxproj|solutionrelative:P3_CTE\\dns_librerias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DNS.c",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\DNS.c",
+              "RelativeDocumentMoniker": "P3_CTE\\DNS.c",
+              "ToolTip": "C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\DNS.c",
+              "RelativeToolTip": "P3_CTE\\DNS.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T15:57:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dns_librerias.h",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\dns_librerias.h",
+              "RelativeDocumentMoniker": "P3_CTE\\dns_librerias.h",
+              "ToolTip": "C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\dns_librerias.h",
+              "RelativeToolTip": "P3_CTE\\dns_librerias.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T15:06:04.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\main.c",
+              "RelativeDocumentMoniker": "P3_CTE\\main.c",
+              "ToolTip": "C:\\Users\\RYZEN\\Desktop\\UOC\\4 - (P) Programa comandos personalizados para sistema operativo\\Producto 3. Automatizaci\u00F3n b\u00E1sica de la administraci\u00F3n de un sistema operativo\\P3_CTE\\P3_CTE\\main.c",
+              "RelativeToolTip": "P3_CTE\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-16T14:42:46.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
